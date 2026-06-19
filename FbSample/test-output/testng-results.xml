@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-06-19T11:02:26 IST" name="Suite" finished-at="2026-06-19T11:02:26 IST" duration-ms="58">
+    <groups>
+      <group name="Smoke">
+        <method signature="Demo3.sampleTest()[pri:0, instance:sample.Demo3@223d2c72]" name="sampleTest" class="sample.Demo3"/>
+        <method signature="Demo4.sample1Test()[pri:0, instance:sample.Demo4@79e2c065]" name="sample1Test" class="sample.Demo4"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test started-at="2026-06-19T11:02:26 IST" name="Test" finished-at="2026-06-19T11:02:26 IST" duration-ms="58">
+      <class name="sample.Demo4">
+        <test-method signature="sample1Test()[pri:0, instance:sample.Demo4@79e2c065]" started-at="2026-06-19T11:02:26 IST" name="sample1Test" finished-at="2026-06-19T11:02:26 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample1Test -->
+      </class> <!-- sample.Demo4 -->
+      <class name="sample.Demo3">
+        <test-method signature="sampleTest()[pri:0, instance:sample.Demo3@223d2c72]" started-at="2026-06-19T11:02:26 IST" name="sampleTest" finished-at="2026-06-19T11:02:26 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTest -->
+      </class> <!-- sample.Demo3 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
