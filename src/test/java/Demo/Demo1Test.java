@@ -8,5 +8,6 @@ public class Demo1Test {
 	public void movie1Test()
 	{
 		System.out.println("Alpha");
+		System.out.println("Animal");
 	}
 }

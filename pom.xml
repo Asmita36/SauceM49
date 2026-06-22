@@ -23,7 +23,7 @@
   
   <profiles>
 	  <profile>
-	     <id> rS</id>
+	     <id> rS </id>
 	       <build>
 	         <plugins>
 	           <plugin>
