@@ -32,7 +32,7 @@
 					        <version>3.5.5</version>
 					        <configuration>
 					          <suiteXmlFiles>
-					            <suiteXmlFile>smokeSuite.xml</suiteXmlFile>
+					            <suiteXmlFile>SmokeSuite.xml</suiteXmlFile>
 					          </suiteXmlFiles>
 					        </configuration>
 					      </plugin>
